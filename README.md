@@ -34,4 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height='40px' width='40px' />&nbsp;                           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height='40px' width='40px' />&nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blank-evgeniy&theme=default)&nbsp;
+<hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blank-evgeniy&theme=default)
