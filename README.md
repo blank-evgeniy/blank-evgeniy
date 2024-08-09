@@ -15,6 +15,7 @@
 
 - 🌱 I’m currently learning React.js and its ecosystem.
 - :computer: I'm currently looking for a job as a frontend developer
+- </> To learn more about me, visit my website: https://blankevgeniy.vercel.app/
 - 📫 How to reach me:
 
 1. tg: @blankeee
