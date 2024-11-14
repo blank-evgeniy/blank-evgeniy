@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='40px' width='40px'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height='40px' width='40px' />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='40px' width='40px'/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height='40px' width='40px'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height='40px' width='40px'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height='40px' width='40px'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height='40px' width='40px'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height='40px' width='40px' />&nbsp;
@@ -40,7 +40,7 @@
 
 <hr/>
 
-![Codewars](https://github.r2v.ch/codewars?user=blankee&stroke=blue)
+![Codewars](https://github.r2v.ch/codewars?user=blankee&stroke=%23BB432C)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blank-evgeniy&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blank-evgeniy&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blank-evgeniy&theme=codeSTACKr&utcOffset=8)
+
