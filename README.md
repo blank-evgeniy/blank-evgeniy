@@ -3,9 +3,9 @@
 
 <hr/>
 
-<h4 align="left" id="stack">🔥 I love working with</h2>
+<h3 align="left" id="stack">🔥 I love working with</h2>
 
-##### 🌐 Languages
+### 🌐 Languages
 
 <div display="flex">
   <a href="#stack"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
@@ -15,7 +15,7 @@
   <a href="#stack"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
 </div>
 
-##### 🎨 Frontend tools
+### 🎨 Frontend tools
 
 <div display="flex">
   <a href="#stack"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -31,7 +31,7 @@
   <a href="#stack"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI"/></a>
 </div>
 
-##### ⚙️ Backend tools
+### ⚙️ Backend tools
 
 <div display="flex">
   <a href="#stack"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/></a>
@@ -42,7 +42,7 @@
   <a href="#stack"><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
 </div>
 
-##### 🧐 Linters, testing
+### 🧐 Linters, testing
 
 <div display="flex">
   <a href="https://eslint.org/" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/></a>
