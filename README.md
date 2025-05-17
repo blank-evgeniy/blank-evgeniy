@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A71&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+<a href="#">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78A71&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)</a>
 <a href="https://blanke.ru/" target="_blank">me</a>
 
 <hr/>
